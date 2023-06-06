@@ -14,6 +14,7 @@ class Main {
 		Book book3 = new Book(3, "A Game of Thrones", "Epic fantasy");
 		Book book4 = new Book(4, "A Clash of Kings", "Epic fantasy");
 		Book book5 = new Book(5, "Ninteen Eight-Four", "Science fiction");
+    Book book6 = new Book(6, "Babysitter's club", "fiction");
 		
 		
 		Author author1 = new Author(1, "J K Rowling");
